@@ -1,0 +1,6 @@
+C:\VisualStudioProjects\CSD221W17_FredCarella_csharp\Exercise\bin\Debug\Exercise.exe.config
+C:\VisualStudioProjects\CSD221W17_FredCarella_csharp\Exercise\bin\Debug\Exercise.exe
+C:\VisualStudioProjects\CSD221W17_FredCarella_csharp\Exercise\bin\Debug\Exercise.pdb
+C:\VisualStudioProjects\CSD221W17_FredCarella_csharp\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\CSD221W17_FredCarella_csharp\Exercise\obj\Debug\Exercise.exe
+C:\VisualStudioProjects\CSD221W17_FredCarella_csharp\Exercise\obj\Debug\Exercise.pdb
